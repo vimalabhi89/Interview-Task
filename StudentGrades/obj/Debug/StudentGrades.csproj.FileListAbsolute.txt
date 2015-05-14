@@ -1,0 +1,9 @@
+C:\Users\VimalAbhishek\Downloads\InsertPOUtility\InsertPOUtility\InsertPOScriptUtility\StudentGrades\bin\Debug\StudentGrades.exe.config
+C:\Users\VimalAbhishek\Downloads\InsertPOUtility\InsertPOUtility\InsertPOScriptUtility\StudentGrades\bin\Debug\StudentGrades.exe
+C:\Users\VimalAbhishek\Downloads\InsertPOUtility\InsertPOUtility\InsertPOScriptUtility\StudentGrades\bin\Debug\StudentGrades.pdb
+C:\Users\VimalAbhishek\Downloads\InsertPOUtility\InsertPOUtility\InsertPOScriptUtility\StudentGrades\obj\Debug\StudentGrades.csprojResolveAssemblyReference.cache
+C:\Users\VimalAbhishek\Downloads\InsertPOUtility\InsertPOUtility\InsertPOScriptUtility\StudentGrades\obj\Debug\StudentGrades.Form1.resources
+C:\Users\VimalAbhishek\Downloads\InsertPOUtility\InsertPOUtility\InsertPOScriptUtility\StudentGrades\obj\Debug\StudentGrades.Properties.Resources.resources
+C:\Users\VimalAbhishek\Downloads\InsertPOUtility\InsertPOUtility\InsertPOScriptUtility\StudentGrades\obj\Debug\StudentGrades.csproj.GenerateResource.Cache
+C:\Users\VimalAbhishek\Downloads\InsertPOUtility\InsertPOUtility\InsertPOScriptUtility\StudentGrades\obj\Debug\StudentGrades.exe
+C:\Users\VimalAbhishek\Downloads\InsertPOUtility\InsertPOUtility\InsertPOScriptUtility\StudentGrades\obj\Debug\StudentGrades.pdb
